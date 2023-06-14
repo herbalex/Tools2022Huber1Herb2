@@ -6,3 +6,4 @@ int i = 1234567890 //thats an integer
 
 
 public void thisIsANewMethod() { }
+int five = 5;
